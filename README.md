@@ -5,6 +5,7 @@ This repository contains the code for building a Netflix-inspired home page usin
 ## Preview
 
 ![image](https://vaibhavsinghal138.github.io/Netflix-Hompage-Clone/Assets/feature-1.png)
+https://vaibhavsinghal138.github.io/Netflix-Hompage-Clone/
 
 ## Features
 
